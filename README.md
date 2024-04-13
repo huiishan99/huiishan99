@@ -14,7 +14,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte#gh-light-mode-only" />
 </a>  
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huiishan99&theme=github-compact&height=300&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
