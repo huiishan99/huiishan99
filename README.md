@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
 
-![HuiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=catppuccin_latte)
+
+[![HuiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![HuiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 
 
 <!--
