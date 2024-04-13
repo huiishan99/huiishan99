@@ -1,6 +1,5 @@
 ### Hi there 👋  
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 [![HuiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
 [![HuiShan's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=gotham#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
