@@ -8,10 +8,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&theme=catppuccin_latte#gh-light-mode-only&card_width=320" />
 </a>
 
 
