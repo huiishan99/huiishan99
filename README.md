@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
-# You Are My ![Visitor Count](https://profile-counter.glitch.me/huiishan99/count.svg) Visitor
 # About Me
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -15,6 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte#gh-light-mode-only" />
 </a>  
 
+![Visitor Count](https://profile-counter.glitch.me/huiishan99/count.svg) Visitor
 
 
 <!--
