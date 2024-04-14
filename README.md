@@ -14,7 +14,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&card_width=320&theme=catppuccin_latte#gh-light-mode-only" />
 </a>  
 
-![Visitor Count](https://profile-counter.glitch.me/huiishan99/count.svg) Visitor
+![Visitor Count](https://profile-counter.glitch.me/huiishan99/count.svg) Visitor  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!--
