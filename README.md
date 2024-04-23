@@ -28,8 +28,6 @@ Whether you're passionate about technology, a fellow game development enthusiast
 </div>
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -51,6 +49,9 @@ Whether you're passionate about technology, a fellow game development enthusiast
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
 </picture>  
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
 
 <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
