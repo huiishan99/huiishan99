@@ -9,7 +9,7 @@
 I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to the enchanting Rafflesia flowers, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer Science as a Master's student at University of Aizu in Japan.
 
 ## 🎓 Education
-- **Bachelor's Degree in Computer Science, Major in E-Commerce**  
+- **Bachelor's Degree in Engineering, Major in E-Commerce**  
   Northwestern Polytechnical University, China
 - **Japanese Language Studies**  
   1.5 years at a Language School in Tokyo, Japan
