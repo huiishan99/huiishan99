@@ -16,14 +16,6 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 - **Master's student in Computer Science**  
   University of Aizu, Japan
 
-## 🌐 Languages
-- **Mandarin Chinese**  
-  Native
-- **English**  
-  Fluent
-- **Japanese**  
-  Conversational
-
 ## 💻 Tech Interests
 I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
 
