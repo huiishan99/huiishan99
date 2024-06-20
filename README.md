@@ -44,6 +44,8 @@ Whether you're passionate about technology, a fellow game development enthusiast
 </a>
 
 
+![huiishan99 github-stats](https://stats.dooboo.io/api/github-stats?login=huiishan99)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
