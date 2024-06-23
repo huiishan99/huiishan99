@@ -13,7 +13,7 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
   Northwestern Polytechnical University, China
 - **Japanese Language Studies**  
   1.5 years at a Language School in Tokyo, Japan
-- **Master's student in Computer Science**  
+- **Master's student in CIS**  
   University of Aizu, Japan
 
 ## 💻 Tech Interests
