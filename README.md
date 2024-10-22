@@ -16,14 +16,10 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 - **Master's student in CIS**  
   University of Aizu, Japan
 
-## 💻 Tech Interests
-I have a deep passion for **game development**. Living in Japan, the heartland of companies like Nintendo, Sony, and Capcom, fuels my inspiration every day. I'm dedicated to mastering the art and science of creating engaging, immersive gaming experiences.
-
-## 🎮 Why Game Development?
-The creativity and technology behind games fascinate me. From storyline crafting to character development and programming, each aspect of game development provides a canvas to innovate and entertain.
-
 ## 🤝 Let's Collaborate
 Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+
+---
 
 </div>
 
