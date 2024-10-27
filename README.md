@@ -36,13 +36,13 @@ Whether you're passionate about technology, a fellow game development enthusiast
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=10&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=huiishan99&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=huiishan99&layout=compact&langs_count=10&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 
 <picture>
