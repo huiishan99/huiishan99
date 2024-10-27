@@ -17,8 +17,8 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
   University of Aizu, Japan
 
 ## 🤝 Let's Collaborate
-Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!000
-00
+Whether you're passionate about technology, a fellow game development enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+
 ---
 
 </div>
