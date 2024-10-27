@@ -22,8 +22,6 @@ Whether you're passionate about technology, a fellow game development enthusiast
 ---
 
 </div>
-
-
 <a href="https://git.io/streak-stats#gh-dark-mode-only">
   <img height=200 src="https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=810#gh-dark-mode-only" />
 </a>
