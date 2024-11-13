@@ -11,7 +11,7 @@ I'm originally from the vibrant city of Sandakan, Sabah in Malaysia—home to th
 ## 🎓 Education
 - **Bachelor's Degree in Engineering, Major in E-Commerce**  
   Northwestern Polytechnical University, China
-- **Japanese Language Studies**  0
+- **Japanese Language Studies**  
   1.5 years at a Language School in Tokyo, Japan0
 - **Master's student in CIS**  
   University of Aizu, Japan
